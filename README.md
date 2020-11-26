@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with **React, Springboot**.
 - 💬 Ask me about **anything I could help you**.
 - 📫 How to reach me:       
-
             <table>
             <tr>
                 <td>WeChat</td>
