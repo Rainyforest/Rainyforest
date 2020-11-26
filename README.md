@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Good to see you.
 
 - 🔭 I’m currently studying in **UVic**.
 - 🌱 I’m currently learning **web development**.
