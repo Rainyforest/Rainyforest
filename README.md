@@ -19,4 +19,3 @@ Good to see you.
             </tr>
             </table>
 - 😄 Pronounciation for my name: Fu Jue [/fù jué/](https://chinese.yabla.com/chinese-pinyin-chart.php)
-- ⚡ Fun fact: Favorite game is StarCraft II.
