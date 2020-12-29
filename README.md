@@ -5,7 +5,7 @@ Good to see you.
 - 🔭 I’m currently studying in **UVic**.
 - 🌱 I’m currently learning **web development**.
 - 👯 I’m looking to collaborate on **a forum project with complete front end and back end**.
-- 🤔 I’m looking for help with **React, Springboot**.
+- 🤔 I’m looking for help with **React, UI design**.
 - 💬 Ask me about **anything I could help you**.
 - 📫 How to reach me:       
             <table>
