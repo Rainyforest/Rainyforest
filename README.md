@@ -18,4 +18,4 @@ Good to see you.
                 <td>rainyforest4869@gmail.com</td>
             </tr>
             </table>
-- 😄 Pronounciation for my name: Fu Jue [/fù jué/](https://chinese.yabla.com/chinese-pinyin-chart.php)
+- 😄 Pronounciation for my name: Jue Fu [/jué fù/](https://translate.google.cn/?hl=en&sl=auto&tl=en&text=%E8%A7%89%20%E5%82%85&op=translate)
