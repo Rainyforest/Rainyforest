@@ -5,7 +5,6 @@ Good to see you.
 - 🔭 I’m currently studying in **UVic**.
 - 🌱 I’m currently learning **web development**.
 - 👯 I’m looking to collaborate on **any interesting project**.
-- 🤔 I’m looking for help with **a new intern job**.
 - 💬 Ask me about **anything I could help you**.
 - 📫 How to reach me:       
             <table>
